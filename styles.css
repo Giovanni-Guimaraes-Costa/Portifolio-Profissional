@@ -1,0 +1,40 @@
+* {
+    margin: 15px;
+    padding: 15px;
+    
+}
+
+.container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 100px;
+  background: fixed;
+  background-color: aquamarine;
+  background-size: auto;
+ display: grid;
+}
+
+* [id="title"] {
+    text-align: center;
+    background: fixed;
+    background-color: aquamarine;
+}
+
+* [id="pagdesc"] {
+    text-align: justify;
+    
+}
+
+* [id="project"] {
+    text-align: start; 
+    margin: 15px;
+}
+* [id="project1"] {
+    display: grid;    
+}
+
+* [id="contact"] {
+    text-align: start;
+
+}
